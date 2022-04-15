@@ -2,4 +2,5 @@
 KOSA_Network & Network Security
 
 
-![curriculum](https://user-images.githubusercontent.com/54794815/163516484-769e379c-c927-46cb-b2ab-8909d08449b8.jpg)
+![KOSA_Network](https://user-images.githubusercontent.com/54794815/163596047-baac3fa5-11ec-43aa-9cda-64e554a9a87d.jpg)
+
