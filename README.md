@@ -1,4 +1,4 @@
-# KOSA_Network_Intro
+# KOSA Network & Network Security
 KOSA_Network & Network Security
 
 
